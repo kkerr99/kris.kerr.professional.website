@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkris_kerr_senior_technical_writer=globalThis.webpackChunkkris_kerr_senior_technical_writer||[]).push([[3388],{4082(e){e.exports=JSON.parse('{"metadata":{"permalink":"/kris.kerr.professional.website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
