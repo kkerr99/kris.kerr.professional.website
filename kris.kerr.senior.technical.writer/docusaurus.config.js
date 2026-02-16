@@ -94,7 +94,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'rgoneSidebar',
+            sidebarId: 'aboutKrisKerrSidebar',
             position: 'left',
             label: 'About Kris Kerr',
           },

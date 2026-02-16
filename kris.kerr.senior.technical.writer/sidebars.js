@@ -36,8 +36,10 @@ export default sidebars;
 
 const sidebars = {
 
-  rgoneSidebar: [
+  aboutKrisKerrSidebar: [
+    'kris-kerr-resume',
     'what-is-rgone',
+    'work-samples',
     {
       type: 'category',
       label: 'For all rgOne Apps',
@@ -373,6 +375,7 @@ const sidebars = {
         'scv-configuration',
       ],
     },
+    'how-this-site-was-made',
   ],
 };
 
