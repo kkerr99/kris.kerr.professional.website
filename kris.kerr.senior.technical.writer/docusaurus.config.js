@@ -96,7 +96,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'rgoneSidebar',
             position: 'left',
-            label: 'Static docs site documentation example',
+            label: 'About Kris Kerr',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
