@@ -1,7 +1,7 @@
 ---
-sidebar_label: Work samples
-title: Work samples for Kris Kerr
-description: Work samples for Kris Kerr
+sidebar_label: Work examples
+title: Work examples for Kris Kerr
+description: Work examples for Kris Kerr
 keywords:
     - work
     - document
