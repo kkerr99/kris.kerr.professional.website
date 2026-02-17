@@ -13,4 +13,6 @@ keywords:
 
 I designed and coded this site entirely by myself using the [Docusaurus](https://docusaurus.io/) static site generator.
 
-I hosted this site by using a free [Netlify](https://www.netlify.com/) account. Again, I did all the work of integrating this site with the Netlify build process.
+The Docusaurus code is saved on my [public GitHub account repository](https://github.com/kkerr99/kris.kerr.professional.website).
+
+I use [GitHub Pages](https://github.com/kkerr99/kris.kerr.professional.website/actions) to build, deploy, and host this site.
