@@ -94,13 +94,17 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'rgoneSidebar',
+            sidebarId: 'aboutKrisKerrSidebar',
             position: 'left',
-            label: 'Static docs site documentation example',
+            label: 'About Kris Kerr',
           },
+          /*
+          // Removing blog sidebar
           {to: '/blog', label: 'Blog', position: 'left'},
+          */
           {
-            href: 'https://github.com/facebook/docusaurus',
+            // href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kkerr99/kris.kerr.professional.website',
             label: 'GitHub',
             position: 'right',
           },
@@ -113,28 +117,33 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Résumé',
+                to: '/docs/kris-kerr-resume',
+              },
+              {
+                label: 'Work examples',
+                to: '/docs/work-samples',
+              },
+              {
+                label: 'Static docs site example',
+                to: '/docs/what-is-rgone',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'LinkedIn profile',
+                href: 'https://www.linkedin.com/in/kris-kerr/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'GitHub account',
+                href: 'https://github.com/kkerr99',
               },
             ],
           },
+          /*
           {
             title: 'More',
             items: [
@@ -148,8 +157,9 @@ const config = {
               },
             ],
           },
+          */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kris Kerr. Built with Docusaurus and GitHub.`,
       },
       prism: {
         theme: prismThemes.github,
