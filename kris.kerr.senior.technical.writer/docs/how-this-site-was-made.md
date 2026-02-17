@@ -11,8 +11,8 @@ keywords:
     - constructed
 ---
 
-I designed and coded this site entirely by myself using the [Docusaurus](https://docusaurus.io/) static site generator.
+I designed and coded this site myself using the [Docusaurus](https://docusaurus.io/) static site generator, Visual Studio Code, Git, and GitHub, using the Docs as Code paradigm.
 
-The Docusaurus code is saved on my [public GitHub account repository](https://github.com/kkerr99/kris.kerr.professional.website).
+The Docusaurus code and Markdown content files are saved on my [public GitHub account repository](https://github.com/kkerr99/kris.kerr.professional.website).
 
 I use [GitHub Pages](https://github.com/kkerr99/kris.kerr.professional.website/actions) to build, deploy, and host this site.
