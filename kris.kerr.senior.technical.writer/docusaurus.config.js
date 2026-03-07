@@ -121,7 +121,7 @@ const config = {
                 to: '/docs/kris-kerr-resume',
               },
               {
-                label: 'Work examples',
+                label: 'Work samples',
                 to: '/docs/work-samples',
               },
               {
