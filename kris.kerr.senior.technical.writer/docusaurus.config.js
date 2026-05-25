@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kris Kerr',
-  tagline: 'Coder • Writer • Technical Videomaker • Wielder of AI',
+  tagline: 'Programming Technical Writer • Earned a Bachelor’s Degree in Computer Science • Former Developer',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
