@@ -1,9 +1,9 @@
 ---
-title: Résumé for Kris Kerr
-sidebar_label: Résumé
-description: Résumé for Kris Kerr
+title: Resume for Kris Kerr
+sidebar_label: Resume
+description: Resume for Kris Kerr
 keywords:
-    - résumé
+    - resume
 ---
 ## Location
 Based in Portland, Oregon

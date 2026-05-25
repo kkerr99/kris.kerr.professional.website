@@ -117,7 +117,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Résumé',
+                label: 'Resume',
                 to: '/docs/kris-kerr-resume',
               },
               {
