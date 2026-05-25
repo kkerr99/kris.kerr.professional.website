@@ -5,12 +5,8 @@ description: Resume for Kris Kerr
 keywords:
     - resume
 ---
-## Location
-Based in Portland, Oregon
-
 ## Contact information
-kkerr99@gmail.com  
-303-668-2041
+kkerr99@gmail.com
 
 ## Links
 - [Work samples, PDF documents and videos](work-samples)
