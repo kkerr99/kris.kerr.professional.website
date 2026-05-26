@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Experienced',
-    Svg: require('@site/static/img/mountain-svgrepo-com.svg').default,
-    description: (
-      <>
-        I have over 20 years of experience as a technical writer and developer. I know how to write clear, concise documentation that will make your software shine.
-      </>
-    ),
-  },
-  {
-    title: 'Strong Technical Skills',
+    title: 'Programming Technical Writer',
     Svg: require('@site/static/img/programmer-thought-svgrepo-com.svg').default,
     description: (
       <>
-        I have up-to-date AI skills, experience as a software developer, and earned an undergraduate degree in computer science.
+        I'm a technical writer and a programmer. I can write code samples and read source code.
       </>
     ),
   },
   {
-    title: 'Gets the Job Done',
-    Svg: require('@site/static/img/worker-digging-a-hole-svgrepo-com.svg').default,
+    title: 'Earned a Bachelor’s Degree in Computer Science',
+    Svg: require('@site/static/img/student-person-3-svgrepo-com.svg').default,
     description: (
       <>
-        Just tell me what you need, and I will get it done. I don't need hand-holding.
+        I have a solid education in computer science and programming concepts.
+      </>
+    ),
+  },
+  {
+    title: 'Former Developer',
+    Svg: require('@site/static/img/computer-programmer-software-engineer-coder-software-developer-svgrepo-com.svg').default,
+    description: (
+      <>
+        I use my development experience to identify and solve developers' problems.
       </>
     ),
   },

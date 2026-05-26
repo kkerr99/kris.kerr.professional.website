@@ -11,7 +11,7 @@ keywords:
     - constructed
 ---
 
-I designed and coded this site myself using the Docs as Code paradigm and the following tools:
+I designed and coded this site myself using the docs-as-code paradigm and the following tools:
 - [Docusaurus](https://docusaurus.io/) static site generator
 - Visual Studio Code
 - Git
