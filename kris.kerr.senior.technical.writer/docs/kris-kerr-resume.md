@@ -9,13 +9,13 @@ keywords:
 kkerr99@gmail.com
 
 ## Links
-- [Work samples, PDF documents and videos](work-samples)
+- [Work samples, PDF documents and videos](portfolio)
 - [Work samples, static docs site content](what-is-rgone)
 - [LinkedIn profile](https://www.linkedin.com/in/kris-kerr/)
 - [GitHub account](https://github.com/kkerr99)
 
 ## Profile
-A Programming Technical Writer who earned a bachelor's degree in computer science and a former developer.
+A Programming Technical Writer who earned a bachelor's degree in computer science and is a former developer.
 
 ## Skills
 
@@ -60,10 +60,10 @@ Redpoint Global Inc. • Wellesley Hills, MA • Full-time • Remote
 Makes Customer Data Platform (CDP) software
 Jun 2017 - Nov 2023
   
-- Wrote the [user guide for Redpoint's Automated Machine Learning (AML) AI/ML enterprise SaaS](work-samples/redpoint-aml-user-guide.pdf), designed to give customers “the ability to use machine learning on your data without requiring data scientist-level expertise.”
+- Wrote the [user guide for Redpoint's Automated Machine Learning (AML) AI/ML enterprise SaaS](portfolio/redpoint-aml-user-guide.pdf), designed to give customers “the ability to use machine learning on your data without requiring data scientist-level expertise.”
 - Pitched the idea for migrating documentation to a docs-as-code workflow and built Redpoint’s first static docs site using Docusaurus.
 - Migrating to a docs-as-code workflow saved Redpoint $10,000/year in word processor licenses and labor.
-- Suggested the idea for and created a [prototype how-to video for Redpoint’s Ambit SaaS](work-samples/ambit-demo-prototype-1.mp4) (the service allows you to search for a customer in other Redpoint app data flows using user-defined search filters).
+- Suggested the idea for and created a [prototype how-to video for Redpoint’s Ambit SaaS](portfolio/ambit-demo-prototype-1.mp4) (the service allows you to search for a customer in other Redpoint app data flows using user-defined search filters).
 - Wrote the [user guide for the rgOne CDP enterprise SaaS](what-is-rgone) as a series of topics in a Docusaurus static docs site.
 
 ### Technical Writer  
@@ -73,7 +73,7 @@ Aug 2014 - Jun 2017
 
 - Led the company-wide effort to migrate Janrain’s online help from WordPress to a docs-as-code workflow and build a static docs site using Hugo. Going to a docs-as-code workflow saved Janrain $36,000 a year in WordPress hosting and support fees.
 - Implemented a new corporate release notes site using Hugo within two days after the old WordPress site failed.
-- Wrote an installation guide, [customization guide](work-samples/janrain-identity-provider-setup-example.pdf), and [user guide](work-samples/janrain-social-login-overview.pdf) (as a series of topics in a Hugo static docs site) for Janrain’s CIAM SaaS.
+- Wrote an installation guide, [customization guide](portfolio/janrain-identity-provider-setup-example.pdf), and [user guide](portfolio/janrain-social-login-overview.pdf) (as a series of topics in a Hugo static docs site) for Janrain’s CIAM SaaS.
 - Wrote REST API code samples for the Hugo static docs site using curl and Postman, as well as knowledge of API auth flows (including OAuth), API schemas, and API error handling.
 
 ### Senior Technical Writer
@@ -83,8 +83,8 @@ Boulder, Colorado • On-site
 Dec 2006 - Apr 2012
 
 - Proposed the idea for and created a series of prototype "how-to" videos posted on the company’s YouTube channel that showed how to use and solve specific problems using ITT’s Interactive Data Language (IDL, a command-line language used to analyze data and extract meaningful visualizations from complex numerical data). The [first video](https://www.youtube.com/watch?v=baiDRV2RDLc) has over 4,000 views and is still being shared by IDL customers over a decade after it was first posted. Sometime in its history an IDL customer found the video so useful that they added Korean subtitles.
-- Wrote the API reference and [programming guides](work-samples/exelis-idl-automatic-garbage-collection-feature-and-how-to-use-it.pdf) for IDL as the product's sole technical writer.
-- Wrote [IDL code samples](work-samples/exelis-save-images-as-KML-files-contour-example.pdf) for documentation in a Linux CLI environment.
+- Wrote the API reference and [programming guides](portfolio/exelis-idl-automatic-garbage-collection-feature-and-how-to-use-it.pdf) for IDL as the product's sole technical writer.
+- Wrote [IDL code samples](portfolio/exelis-save-images-as-KML-files-contour-example.pdf) for documentation in a Linux CLI environment.
 
 ## Education
 

@@ -121,8 +121,8 @@ const config = {
                 to: '/docs/kris-kerr-resume',
               },
               {
-                label: 'Work samples',
-                to: '/docs/work-samples',
+                label: 'Portfolio',
+                to: '/docs/portfolio',
               },
               {
                 label: 'Static docs site example',

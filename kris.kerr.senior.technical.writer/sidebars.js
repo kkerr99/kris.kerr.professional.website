@@ -42,7 +42,7 @@ const sidebars = {
       type: 'category',
       label: 'Work samples',
       items: [
-        'work-samples',
+        'portfolio',
         {
           type: 'category',
           label: 'Static docs site examples',
