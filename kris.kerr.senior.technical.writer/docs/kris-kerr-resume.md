@@ -19,32 +19,6 @@ A Programming Technical Writer who earned a bachelor's degree in computer scienc
 
 ## Skills
 
-**AI Chatbots:** ChatGPT    
-**APIs:** REST APIs • RESTful APIs      
-**API Tools/Concepts:** API auth flows • API error handling • API schemas • curl • OAuth • Postman      
-**Authoring Software:** Acrobat Pro • Flare • Help+Manual • RoboHelp • WordPress    
-**Content Audiences:** developers • DevOps engineers • enterprise software users • SaaS users   
-**Content Deliverables:** API reference guides • code samples • customization guides • developer tutorials • documentation outlines • Getting Started guides • how-to videos • HTML help • indexes • installation guides • online help pages • online help sites • operator’s guides • PDF • press releases • programming guides • reference guides • release notes • static docs site pages • static docs sites • style guides • system/network administration guides • user guides • video software overviews • video tutorials • white papers    
-**Corporate Productivity Tools/Processes:** Agile • Confluence • JIRA • Slack • Teams       
-**Graphics Software:** Snagit       
-**IDEs:** Eclipse       
-**Related IDE Skills:** IDEs (using) • IDEs (documenting) • IDEs (modifying)    
-**Markdown Formats:** CommonMark • GitHub Flavored Markdown • Markdown      
-**Operating System Shells/CLIs:** Zsh   
-**Operating Systems:** Linux • macOS • Unix • Windows   
-**Programming and Scripting Languages:** C • C++ • Go • IDL • Java • JavaScript • Python • shell scripting      
-**Package Managers:** Homebrew • npm    
-**Related Skills:** docs-as-code • editing • managing multiple documentation projects simultaneously • proofreading • technical video creation      
-**Software Delivery Models Documented:** SaaS, Self-hosted Applications     
-**Software Types Documented:** 3D Data Analysis • Address standardization • Artificial Intelligence (AI) • Authorization • Campaign Orchestration • Customer Data Platform (CDP) • Customer Engagement • Customer Experience • Customer Identity and Access Management (CIAM) • Customer Identity Management • Customer Insights • Customer Journey Analytics • Database Merge/Purge • Data Analysis • Data Analysis of Large Data Sets • Data Driven Marketing • Data Integration • Data Quality • Data Stewardship • Data Visualization • Digital Transformation • Enterprise • Extract, Transform, and Load (ETL) • Geocoding • Geospatial • Geospatial Analytics • Geospatial Image Analysis • Geospatial Imagery • GIS • Image Analysis • Image Processing • Interactive Data Analysis • LiDAR Feature Analysis • Machine Learning (ML) • Marketing • Martech • Observability • Personalization • Security • Single Customer View (SCV) • Social Login • Synthetic Aperture Radar (SAR) Imagery • User Authentication      
-**Static Docs Site Generators:** Docusaurus • Hugo      
-**Text Editors:** Atom • vi • Visual Studio Code    
-**Version Control Software:** Azure Repos • Git • GitHub    
-**Video Tutorial Creation Software:** Camtasia      
-**Related Video Tutorial Creation Skills:** creating video bumpers • scriptwriting • sound editing • video editing      
-**Web Analytics Tools:** Google Analytics
-
-
 | Type | Skills |
 | ----------- | ----------- |
 | AI Chatbots | ChatGPT |
