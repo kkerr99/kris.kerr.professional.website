@@ -1,7 +1,7 @@
 ---
 sidebar_label: Portfolio
 title: Portfolio for Kris Kerr
-description: Portfolio of work samples for Kris Kerr
+description: Portfolio for Kris Kerr
 keywords:
     - work
     - document

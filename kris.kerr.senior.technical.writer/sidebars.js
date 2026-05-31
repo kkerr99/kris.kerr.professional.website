@@ -40,7 +40,7 @@ const sidebars = {
     'kris-kerr-resume',
     {
       type: 'category',
-      label: 'Work samples',
+      label: 'Portfolio',
       items: [
         'portfolio',
         {
