@@ -9,8 +9,8 @@ keywords:
 kkerr99@gmail.com
 
 ## Links
-- [Work samples, PDF documents and videos](portfolio)
-- [Work samples, static docs site content](what-is-rgone)
+- [Portfolio (PDF documents and videos)](portfolio)
+- [Portfolio (static docs site content)](what-is-rgone)
 - [LinkedIn profile](https://www.linkedin.com/in/kris-kerr/)
 - [GitHub account](https://github.com/kkerr99)
 
@@ -53,7 +53,7 @@ April 2012 - Present
 
 - Coding, technical writing, and technical video content creation on a contract basis.
 - Applies AI tools and workflows (ChatGPT) to documentation projects to accelerate productivity.
-- Created and maintains a [Docusaurus static docs site](https://kkerr99.github.io/kris.kerr.professional.website/) to host my resume and work samples. I also use it to test new docs site tools and exhibit coding projects.
+- Created and maintains a [Docusaurus static docs site](https://kkerr99.github.io/kris.kerr.professional.website/) to host my resume and portfolio. I also use it to test new docs site tools and exhibit coding projects.
 
 ### Senior Technical Writer    
 Redpoint Global Inc. • Wellesley Hills, MA • Full-time • Remote

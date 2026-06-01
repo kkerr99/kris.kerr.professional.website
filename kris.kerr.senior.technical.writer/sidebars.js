@@ -40,7 +40,7 @@ const sidebars = {
     'kris-kerr-resume',
     {
       type: 'category',
-      label: 'Work samples',
+      label: 'Portfolio Section',
       items: [
         'portfolio',
         {
@@ -49,7 +49,7 @@ const sidebars = {
           items: [ 
             {  
               type: 'category',
-              label: 'rgOne static docs site',
+              label: 'rgOne SaaS User Guide',
               items: [
                 'what-is-rgone',
                   {
