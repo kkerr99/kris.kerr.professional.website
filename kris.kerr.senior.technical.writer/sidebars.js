@@ -49,7 +49,7 @@ const sidebars = {
           items: [ 
             {  
               type: 'category',
-              label: 'rgOne SaaS static docs site',
+              label: 'rgOne SaaS User Guide',
               items: [
                 'what-is-rgone',
                   {
