@@ -9,8 +9,7 @@ keywords:
 kkerr99@gmail.com
 
 ## Links
-- [Portfolio (PDF documents and videos)](portfolio)
-- [Portfolio (static docs site content)](what-is-rgone)
+- [Portfolio](portfolio)
 - [LinkedIn profile](https://www.linkedin.com/in/kris-kerr/)
 - [GitHub account](https://github.com/kkerr99)
 

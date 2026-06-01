@@ -81,7 +81,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/kkerr-social-card-1.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -125,8 +125,8 @@ const config = {
                 to: '/docs/portfolio',
               },
               {
-                label: 'Static docs site example',
-                to: '/docs/what-is-rgone',
+                label: 'How this site was made',
+                to: '/docs/how-this-site-was-made',
               },
             ],
           },
