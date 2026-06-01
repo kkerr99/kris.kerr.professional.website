@@ -125,8 +125,8 @@ const config = {
                 to: '/docs/portfolio',
               },
               {
-                label: 'Static docs site example',
-                to: '/docs/what-is-rgone',
+                label: 'How this site was made',
+                to: '/docs/how-this-site-was-made',
               },
             ],
           },
