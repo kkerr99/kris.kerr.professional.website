@@ -47,17 +47,18 @@ A Programming Technical Writer who earned a bachelor's degree in computer scienc
 ## Experience
 
 ### Freelance Technical Writer Consultant
-Contract-basis • Part-time • Remote   
-April 2012 - Present
+Contract-basis • Part-time • Remote  
+April 2012 - Present  
 
 - Coding, technical writing, and technical video content creation on a contract basis.
 - Applies AI tools and workflows (ChatGPT) to documentation projects to accelerate productivity.
 - Created and maintains a [Docusaurus static docs site](https://kkerr99.github.io/kris.kerr.professional.website/) to host my resume and portfolio. I also use it to test new docs site tools and exhibit coding projects.
 
 ### Senior Technical Writer    
-Redpoint Global Inc. • Wellesley Hills, MA • Full-time • Remote
-Makes Customer Data Platform (CDP) software
-Jun 2017 - Nov 2023
+Redpoint Global Inc.  
+Makes Customer Data Platform (CDP) software  
+Wellesley Hills, MA • Full-time • Remote  
+Jun 2017 - Nov 2023  
   
 - Wrote the [user guide for Redpoint's Automated Machine Learning (AML) AI/ML enterprise SaaS](portfolio/redpoint-aml-user-guide.pdf), designed to give customers “the ability to use machine learning on your data without requiring data scientist-level expertise.”
 - Pitched the idea for migrating documentation to a docs-as-code workflow and built Redpoint’s first static docs site using Docusaurus.
@@ -66,8 +67,9 @@ Jun 2017 - Nov 2023
 - Wrote the [user guide for the rgOne CDP enterprise SaaS](what-is-rgone) as a series of topics in a Docusaurus static docs site.
 
 ### Technical Writer  
-Janrain, Inc. (now Akamai Technologies) • Portland, OR • Full-time • On-site
-Makes Customer Identity and Access Management (CIAM) software      
+Janrain, Inc. (now Akamai Technologies)  
+Makes Customer Identity and Access Management (CIAM) software  
+Portland, OR • Full-time • On-site  
 Aug 2014 - Jun 2017  
 
 - Led the company-wide effort to migrate Janrain’s online help from WordPress to a docs-as-code workflow and build a static docs site using Hugo. Going to a docs-as-code workflow saved Janrain $36,000 a year in WordPress hosting and support fees.
@@ -76,10 +78,10 @@ Aug 2014 - Jun 2017
 - Wrote REST API code samples for the Hugo static docs site using curl and Postman, as well as knowledge of API auth flows (including OAuth), API schemas, and API error handling.
 
 ### Senior Technical Writer
-ITT Corporation (Geospatial Data and Imagery Division, now L3Harris)    
-Makes geospatial software     
-Boulder, Colorado • On-site  
-Dec 2006 - Apr 2012
+ITT Corporation (Geospatial Data and Imagery Division, now L3Harris)  
+Makes geospatial software  
+Boulder, Colorado • Full-time • On-site  
+Dec 2006 - Apr 2012  
 
 - Proposed the idea for and created a series of prototype "how-to" videos posted on the company’s YouTube channel that showed how to use and solve specific problems using ITT’s Interactive Data Language (IDL, a command-line language used to analyze data and extract meaningful visualizations from complex numerical data). The [first video](https://www.youtube.com/watch?v=baiDRV2RDLc) has over 4,000 views and is still being shared by IDL customers over a decade after it was first posted. Sometime in its history an IDL customer found the video so useful that they added Korean subtitles.
 - Wrote the API reference and [programming guides](portfolio/exelis-idl-automatic-garbage-collection-feature-and-how-to-use-it.pdf) for IDL as the product's sole technical writer.
